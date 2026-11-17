@@ -105,4 +105,4 @@ terraform destroy
 *DevOps Engineer | Cloud & Automation Enthusiast*
 📧 abdulraufmaryam15@gmail.com
 
-💼 [LinkedIn Profile](https://www.linkedin.com/in/maryam-temitope-2a3428373/)
+💼 [LinkedIn Profile](https://www.linkedin.com/in/maryam-abdulrauf)
